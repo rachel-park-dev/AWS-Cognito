@@ -1,2 +1,2 @@
-# awscognito
+# Awscognito
 AWS Cognito tutorial example
